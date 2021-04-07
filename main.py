@@ -66,4 +66,16 @@ is_cool= True
 ##age_year= 2021 - int(birth_year)
 ##print(f'your age is {age_year}')
 
+#Pasword Cheker
+#username_1 = input('Write Your username')
+#password_1 = input('Write Your password')
+#print(f'Your Username is {username_1} and your password is {len(password_1)} digits long')
+#password_length = len(password_1)
+#password_secret = '*' * password_length
+#print(f'Your Username is {username_1} and your password {password_secret } is {len(password_1)} digits long')
+
+
+
+
+
 
