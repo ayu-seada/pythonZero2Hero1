@@ -36,3 +36,34 @@ d= type (a)
 print(c)
 print (d)
 
+#foramted strings
+name = 'Johnny'
+age =50
+#age_tostring = str(age)
+#print('Hi ' + name + ' you are ' + age_tostring + ' old')
+print(f'Hi {name}. you are {age} years old')
+#string indexes
+selfish = '0123456789'
+#0123456789
+print(selfish[0:9:2])
+print(selfish[-2])
+print(selfish[::-2])
+
+print(len("hello"))
+#Built in Functions & Methods
+quote = 'to be or not to be'
+print(quote.upper())
+print(quote.capitalize())
+print(quote.find('be'))
+print(quote.replace('be','me'))
+print(quote)
+#booleans -----> bool
+name = 'Yahia'
+is_cool = False
+is_cool= True
+#Different types Convers
+##birth_year =input('what year were you born ')
+##age_year= 2021 - int(birth_year)
+##print(f'your age is {age_year}')
+
+
