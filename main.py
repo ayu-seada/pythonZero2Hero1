@@ -1,0 +1,15 @@
+print("Yahia")
+print(type(2 + 4))
+print(type(2 - 4))
+print(type(2 * 4))
+print(type(2 / 4))
+print(2 // 4)
+print(2**5)
+print(5 % 4)
+print(round(3.1))
+print(abs(-20))
+user_iq = 190
+print(user_iq)
+user_age = (user_iq/4)
+print(user_age)
+
